@@ -1,3 +1,7 @@
+git config --global core.autocrlf false
+git reset --hard origin/master
+
+
 Litecoin Core integration/staging tree
 =====================================
 
